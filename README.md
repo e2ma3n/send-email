@@ -12,8 +12,7 @@ All popular linux distributions such as debian and CentOS
 
 | Dependency | Description |
 | ---------- | ----------- |
-| which       | which returns the pathnames of the files (or links) which would be executed in the current environment, had its
-       arguments been given as commands in a strictly POSIX-conformant shell. |
+| which       | which returns the pathnames of the files (or links) which would be executed in the current environment, had its arguments been given as commands in a strictly POSIX-conformant shell. |
 | head       | Print  the first 10 lines of each FILE to standard output. |
 | rm         | rm removes each specified file. |
 | cat        | Concatenate FILE(s) to standard output. |
