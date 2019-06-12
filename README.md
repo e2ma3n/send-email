@@ -7,6 +7,10 @@ sending email using third party smtp servers in linux terminal
 ## What distributions are supported ?
 All popular linux distributions such as debian and CentOS
 
+| Distribution | Version |
+| ---------- | ----------- |
+| Debian     | debian-9.9.0-amd64-netinst |
+
 
 ## Dependencies
 
